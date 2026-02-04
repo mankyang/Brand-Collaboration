@@ -97,7 +97,22 @@ Stage 5｜PPT Generation & Export
 ---
 
 ## 视觉与文件
-- `agent-workflow-popmart.png`：高清流程图（推荐用于汇报/展示）
-- `agent-workflow-popmart.svg`：矢量版，便于二次编辑
+
+### A. 标准版（流程图）
+- `agent-workflow-popmart.png`
+- `agent-workflow-popmart.svg`
 
 ![workflow](./agent-workflow-popmart.png)
+
+### B. 品牌化重制版（16:9）
+- `brand_cover.png`（主视觉封面：城市 × 潮玩 × IP）
+- `brand_workflow.png`（Workflow 总览）
+- `brand_zones.png`（四区布局卡片）
+- `brand_timeline.png`（传播节奏时间轴）
+- `brand_budget_kpi.png`（预算 & KPI 图表）
+
+![brand_cover](./brand_cover.png)
+![brand_workflow](./brand_workflow.png)
+![brand_zones](./brand_zones.png)
+![brand_timeline](./brand_timeline.png)
+![brand_budget_kpi](./brand_budget_kpi.png)
